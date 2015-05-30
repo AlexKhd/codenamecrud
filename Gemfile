@@ -54,3 +54,4 @@ group :production do
   gem 'rollbar', '~> 1.5.1'
   gem 'newrelic_rpm'
 end
+
